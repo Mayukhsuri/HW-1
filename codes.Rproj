@@ -1,4 +1,3 @@
-Enter file contents here
 EdittedContracts.csv <- read.csv("C:/Users/kunal/Desktop/r data/EdittedContracts.csv", header = TRUE)
 str(EdittedContracts.csv)
 barplot(EdittedContracts.csv$Contract.Type)
