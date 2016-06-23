@@ -1,5 +1,3 @@
-Enter file contents here
-
 data(EdittedContracts.csv)
 plot(EdittedContracts.csv$State)
 city <- table(EdittedContracts.csv$State)
