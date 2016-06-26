@@ -10,33 +10,33 @@ To achieve the goal, an understanding of the demand and supply of contacts was i
 A quick introduction of the files:
 The .csv files where I arranged all the data sets from:
 
-Contracts.csv
-List_of_contractors_doing_business_with_city_of_chicago.csv
+Contracts.csv,
+List_of_contractors_doing_business_with_city_of_chicago.csv,
 
 The programming (in R) files:
 
-Codes.R
-codesMisc.R
-HW_1.R
+Codes.R,
+codesMisc.R,
+HW_1.R,
 
 These files describe graphically the particular contract type:
 
-Advertisement.pdf
-Commodities.pdf
-Illinoi bar.pdf
-Complete analysis.pdf
-Construction.pdf
-Engineering.pdf
-Image 2 construction.pdf
-Overall data analysis.pdf
-Work service.pdf
-Youth.pdf
+Advertisement.pdf,
+Commodities.pdf,
+Illinoi bar.pdf,
+Complete analysis.pdf,
+Construction.pdf,
+Engineering.pdf,
+Image 2 construction.pdf,
+Overall data analysis.pdf,
+Work service.pdf,
+Youth.pdf,
 
 The data printed by the R on the console:
 
-Print.txt
+Print.txt,
 
 My full analysis:
 
-data.analysed.doc
+data.analysed.doc,
 
