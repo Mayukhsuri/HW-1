@@ -8,18 +8,18 @@ To achieve the goal, an understanding of the demand and supply of contacts was i
 
 
 A quick introduction of the files:
-The .csv files where I arranged all the data sets from:
+THE .CSV FILES WHERE I ARRANGED ALL THE DATA SETS FROM:
 
 Contracts.csv,
 List_of_contractors_doing_business_with_city_of_chicago.csv,
 
-The programming (in R) files:
+THE PROGRAMMING (IN R) FILES:
 
 Codes.R,
 codesMisc.R,
 HW_1.R,
 
-These files describe graphically the particular contract type:
+THESE FILES DESCRIBE GRAPHICALLY THE PARTICULAR CONTRACT TYPE:
 
 Advertisement.pdf,
 Commodities.pdf,
@@ -32,11 +32,10 @@ Overall data analysis.pdf,
 Work service.pdf,
 Youth.pdf,
 
-The data printed by the R on the console:
-
+THE DATA PRINTED BY THE R ON THE CONSOLE:
 Print.txt,
 
-My full analysis conclusion:
+MY FULL ANALYSIS CONCLUSION:
 
 data.analysed.docx,
 
