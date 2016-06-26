@@ -52,3 +52,370 @@
 "WORK SERV-AVIATION"	309
 "WORK SERVICES-SMALL ORDERS"	163
 "WORK SERVICES / FACILITIES MAINT."	2211
+
+
+CONTRACTS
+
+ Contract.Type  
+                                    :34667  
+ DELEGATE AGENCY                    :16957  
+ COMPTROLLER-OTHER                  : 4644  
+ CONSTRUCTION-AVIATION              : 3977  
+ CONSTRUCTION-LARGE $3MILLIONorABOVE: 3230  
+ COMMODITIES                        : 2215  
+ (Other)                            :21183  
+
+Vendor.ID                
+ 22085024V: 1704     
+ 15792481T: 1691    
+ 90506630P:  744    
+ 85246282A:  731    
+ 77755055X:  723    
+ 9088362A :  715    
+ (Other)  :80565  
+
+  
+     State      
+ IL     :80067  
+ WI     :  867  
+ PA     :  606  
+ CA     :  492  
+ IN     :  437  
+ MO     :  425  
+(Other): 3979  						
+
+List of contractors doing business
+
+  VENDOR.ID   
+ 1001810  :   1  
+ 1002908  :   1  
+ 1003070  :   1  
+ 1003778  :   1  
+ 1004390  :   1  
+ 10054955X:   1  
+ (Other)  :4983  
+
+          
+
+STATE     
+ IL     :4075  
+ CA     : 103  
+ NY     :  91  
+ TX     :  63  
+ MA     :  45  
+ PA     :  41  
+ (Other): 571  
+ 
+           AL     AR     AZ     BC 
+            3      4     14      1 
+   BMU     CA    CAN CANADA     CO 
+     1    103      1      1     18 
+    CT     DC     DE     FL    FRA 
+    12     35      4     37      1 
+    GA     IA     ID     IL     IN 
+    32      8      1   4075     34 
+   ITA     KS     KY     LA     MA 
+     1      7      7      5     45 
+    MD     ME     MI     MN     MO 
+    39      3     36     26     26 
+    MS     NC     NE     NH     NJ 
+     3     20      7      6     27 
+    NM     NV     NY     OH     OK 
+     1      3     91     29      2 
+    OR     PA    PAK   QUEBEC   RI 
+     9     41      1      1      2 
+    SC     SD     TN     TX    UAE 
+     3      1     18     63      1 
+   UKR     UT     VA     VT     WA 
+     1      7     23      1      8 
+    WI     WV 
+    37      2 
+
+
+ Construction stats
+
+             Vendor.Name 
+ WALSH CONSTRUCTION COMPANY OF ILL:321  
+ WALSH/II IN ONE/RITEWAY JV       :249  
+ F.H. PASCHEN/S.N. NIELSEN, INC   :162  
+ G & V CONSTRUCTION CO INC        : 56  
+ SEVEN-D CONSTRUCTION CO.         : 51  
+ RITEWAY CONSTRUCTION SERVICES    : 50  
+ (Other)                          :765  
+   
+  Vendor.ID             City          State     
+ 15792481T:321   CHICAGO     :1099   IL     :1572  
+ 33664895T:249   BENSENVILLE :  59   PA     :  47  
+ 9123471X :162   SUMMIT      :  50   IN     :  22  
+ 90506630P: 56               :  40   MA     :   5  
+ 93201616L: 51   BELLE VERNON:  38   MI     :   4  
+ 15300606X: 50   ELGIN       :  35   CA     :   2  
+ (Other)  :765   (Other)     : 333   (Other):   2  
+
+                 Contract.Type 
+ CONSTRUCTION             :1654  
+                          :   0  
+ Add Line Item            :   0  
+ ARCH/ENGINEERING         :   0  
+ ARCH/ENGINEERING-AVIATION:   0  
+ COMMODITIES              :   0  
+ (Other)                  :   0  
+
+     State     
+ IL     :1572  
+ PA     :  47  
+ IN     :  22  
+ MA     :   5  
+ MI     :   4  
+ CA     :   2  
+ (Other):   2  
+
+     Vendor.ID   
+ 15792481T: 910
+  
+ 85246282A: 731  
+
+ 93472804Z: 308  
+
+ 77755055X: 296  
+
+ 21973746A: 287  
+
+ 9123471X : 276  
+
+
+ (Other)  :5442  
+	Vendor.Name  
+ WALSH CONSTRUCTION COMPANY OF ILL:
+  WALSH/T J LAMBRECHT JV          : 
+ TURNER-CONCRETE STRUCTURES-LINDAHL TRI VENTURE    : 
+
+ BIGANE PAVING COMPANY           : 
+
+ SUMIT CONSTRUCTION CO., INC.    : 
+
+ F.H. PASCHEN/S.N. NIELSEN, INC  : 
+
+ (Other)                         : 
+	910 
+
+
+731   
+
+
+
+308  
+
+296
+
+287
+
+276
+
+
+5442        
+
+
+    State     
+ IL     :8074  
+ IN     :  48  
+ PA     :  48  
+ MI     :  31  
+ OH     :  10  
+ NJ     :   8  
+ (Other):  31  
+
+
+WORK SERVICE AND FACILITIES
+                          Contract.Type 
+ WORK SERVICES / FACILITIES MAINT.:2211  
+                                  :   0  
+ Add Line Item                    :   0  
+ ARCH/ENGINEERING                 :   0  
+ ARCH/ENGINEERING-AVIATION        :   0  
+ COMMODITIES                      :   0  
+ (Other)                          :   0  
+ 
+
+                                Vendor.Name       Vendor.ID         
+ IRON MOUNTAIN RECORDS MANAGEMENT, INC.: 130   3659491E : 130 
+ CHRISTY WEBBER LANDSCAPES             :  54   31316936Z:  41  
+ AIR ONE EQUIPMENT INC                 :  41   87834402H:  36 
+ SKYTECH ENTERPRISES, LIMITED          :  41   6265925M :  35
+ SECURITY PROFESSIONALS INC            :  35   15551683L:  33
+ DIGBY'S DETECTIVE & SECURITY AGT INC  :  33   3610706Z :  33
+ (Other)                               :1877   (Other)  :1903 
+	
+
+
+    State     
+ IL     :1934  
+ IN     :  69  
+ OH     :  27  
+ MI     :  25  
+ CA     :  18  
+ WI     :  18  
+ (Other): 120  
+
+
+ARCH/ENGINEERING
+                   Contract.Type                           Vendor.Name  
+ ARCH/ENGINEERING         :1796   TENG & ASSOCIATES, INC.        :  62  
+                          :   0   H D R ENGINEERING, INC.        :  61  
+ Add Line Item            :   0   URS CORPORATION                :  59  
+ ARCH/ENGINEERING-AVIATION:   0   HNTB CORPORATION               :  57  
+ COMMODITIES              :   0   GLOBETROTTERS ENGINEERING CORP.:  55  
+ COMMODITIES-AVIATION     :   0   CIVILTECH ENGINEERING INC      :  54  
+ (Other)                  :   0   (Other)                        :1448  
+
+  
+   Vendor.ID             City          State     
+ 5051328V :  74   CHICAGO    :1262   IL     :1566  
+ 87200994Z:  62   KANSAS CITY:  79   MO     :  81  
+ 22558229L:  61   ITASCA     :  54   WI     :  44  
+ 27469803L:  61   SCHAUMBURG :  50   PA     :  35  
+ 89508626P:  59   MILWAUKEE  :  37   CA     :  24  
+ 6172585P :  57   WOODRIDGE  :  30   IA     :  13  
+ (Other)  :1422   (Other)    : 284   (Other):  33  
+
+
+
+
+
+                  Contract.Type      State     
+ ARCH/ENGINEERING         :1796   IL     :1566  
+                          :   0   MO     :  81  
+ Add Line Item            :   0   WI     :  44  
+ ARCH/ENGINEERING-AVIATION:   0   PA     :  35  
+ COMMODITIES              :   0   CA     :  24  
+ COMMODITIES-AVIATION     :   0   IA     :  13  
+ (Other)                  :   0   (Other):  33  
+
+
+
+                          Vendor.Name  
+ JOE F. DE CICCO                : 679  
+ BONDS & ASSOCIATES, INC.SEAL   : 569  
+ UNITED DEMOLITION INC          : 565  
+ ACS, INC                       : 499  
+ PAIGE ENTERPRISES              : 491  G M DEMOLITION CORPORATION(seal): 476  
+ (Other)                        :4542  
+	   Vendor.ID           
+ 31294355A: 679    
+ 5707349L : 569   
+ 25965824M: 565    
+ 22950829E: 499 
+ 22048664X: 491   
+ 22757183T: 476   
+ (Other)  :4542   
+
+	
+  
+    State     
+ IL     :7817  
+ OH     :   4  
+        :   0  
+ AK     :   0  
+ AL     :   0  
+ AR     :   0  
+ (Other):   0  
+
+
+
+Youth
+     State    
+ IL     :311  
+ WI     :  1  
+        :  0  
+ AK     :  0  
+ AL     :  0  
+ AR     :  0  
+ (Other):  0  
+  
+                           Vendor.Name      Vendor.ID                  City    
+ BOYS & GIRLS CLUBS OF CHICAGO     : 24   24051664V: 24   CHICAGO            :309  
+ CHICAGO YOUTH CENTERS             : 18   65101977V: 18   CHICAGO HEIGHTS    :  1  
+ CABRINI GREEN YOUTH PROGRAM       :  6   12799714H:  6   ELKHART LAKE       :  1  
+ ARIEL EDUCATION INITIATIVE        :  5   31316724A:  5   NORTHBROOK         :  1  
+ Y M C A METRO CHICAGO             :  5   31330149X:  5                      :  0  
+ YOUTH SERVICE COMM OF THE WESTSIDE:  5   85241514X:  5   **** USE VENDOR# 64:  0  
+ (Other)                           :249   (Other)  :249   (Other)            :  0  
+
+
+Delegate agency
+     State      
+ IL     :16807  
+ AZ     :   73  
+ NY     :   23  
+ WI     :   15  
+ MI     :   14  
+ MD     :    8  
+ (Other):   17  
+
+         Contract.Type                               Vendor.Name   
+ DELEGATE AGENCY:16957   JANE ADDAMS HULL HOUSE ASSOCIATION:  392  
+  DEMOLITION    :    0   BOYS & GIRLS CLUBS OF CHICAGO     :  368  
+  SCHOOLS       :    0   CENTERS FOR NEW HORIZONS 01       :  324  
+ ADVERTISEMENT  :    0   CHASE HOUSE INC 02                :  236  
+ ADVERTISING    :    0   SALVATION ARMY 01                 :  230  
+ AIDS           :    0   HOWARD AREA COMMUNITY.CENTER      :  211  
+ (Other)        :    0   (Other)                           :15196  
+  
+   Vendor.ID         State      
+ 9814851L :  392   IL     :16807  
+ 24051664V:  368   AZ     :   73  
+ 15427701H:  324   NY     :   23  
+ 31302660X:  236   WI     :   15  
+ 33665822M:  230   MI     :   14  
+ 28386163V:  215   MD     :    8  
+ (Other)  :15192   (Other):   17  
+
+ADVERTISEMENT
+     State    
+ IL     :150  
+ CA     :  1  
+ MI     :  1  
+ NJ     :  1  
+ OH     :  1  
+ TX     :  1  
+ (Other):  0  
+           
+       Vendor.Name      State    
+ N'DIGO                  :  9   IL     :150  
+ ROSSIS PUBLICATIONS, INC:  6   CA     :  1  
+ BEVERLY REVIEW          :  4   MI     :  1  
+ CHICAGO DAILY DEFENDER  :  4   NJ     :  1  
+ CHICAGO TRIBUNE 02      :  4   OH     :  1  
+ SKYLINE NEWSPAPER       :  4   TX     :  1  
+ (Other)                 :124   (Other):  0  
+
+COMODITIES
+
+     State     
+ IL     :6439  
+ MO     : 119  
+ TX     : 116  
+ WI     : 110  
+ NY     :  83  
+ GA     :  64  
+ (Other): 712  
+
+     Contract.Type                                    Vendor.Name  
+ COMMODITIES  :7643   CHICAGO UNITED INDUSTRIES, LIMITED      : 535  
+  DEMOLITION  :   0   CHICAGO PARK DISTRICT                   : 121  
+  SCHOOLS     :   0   FEDERAL AVIATION ADMINISTRATN           :  88  
+ ADVERTISEMENT:   0   ROOT BROTHERS.MANUFACTURING & SUPPLY CO :  75  
+ ADVERTISING  :   0   ROOT BROTHERS.MANUFACTURING & SUPPLY CO.:  75  
+ AIDS         :   0   PRODUCTION DYNAMICS OF CHICAGO INC.     :  70  
+ (Other)      :   0   (Other)                                 :6679  
+
+     Vendor.ID        State     
+ 22085024V: 535   IL     :6439  
+ 3620558A : 150   MO     : 119  
+ 87834406A: 121   TX     : 116  
+ 1004390  : 101   WI     : 110  
+ 7011696A :  70   NY     :  83  
+ 92439101T:  60   GA     :  64  
+ (Other)  :6606   (Other): 712  
+
+
