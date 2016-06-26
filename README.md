@@ -9,6 +9,7 @@ To achieve the goal, an understanding of the demand and supply of contacts was i
 
 
 A quick introduction of the files:
+
 THE .CSV FILES WHERE I ARRANGED ALL THE DATA SETS FROM:
 
 Contracts.csv,
