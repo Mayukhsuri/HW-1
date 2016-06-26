@@ -36,7 +36,7 @@ The data printed by the R on the console:
 
 Print.txt,
 
-My full analysis:
+My full analysis conclusion:
 
-data.analysed.doc,
+data.analysed.docx,
 
